@@ -52,8 +52,32 @@ Enter the vulnerable parameter (e.g., file, page, include): file
 - Add more **LFI payloads** in the `LFI_PAYLOADS` list.
 - Modify **User-Agent randomization** for stealth scanning.
 
-## Disclaimer
-**For educational and authorized security testing only.** Unauthorized use is illegal and may violate terms of service.
+---
+
+## ⚠️ Disclaimer
+
+> **This tool is for educational and authorized testing purposes only.**
+> Do **NOT** use this on networks or systems you don't own or have explicit permission to test.
+> Unauthorized use of this tool may be illegal and unethical.
+
+---
+
+## 🤝 Contributions Welcome
+
+If you'd like to add more modules, features, or improve functionality — feel free to fork this repo and submit a pull request.
+
+---
+
+## 👤 Author
+
+🔗 LinkedIn: [@xhanix](https://www.linkedin.com/in/xhanix/)
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE)
+
 
 ---
 📌 **Contributions Welcome!** Feel free to submit issues and pull requests. 🚀
